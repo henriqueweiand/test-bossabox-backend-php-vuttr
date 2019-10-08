@@ -10,7 +10,7 @@ Sua tarefa é construir uma API e banco de dados para a aplicação VUTTR (Very 
 
 A aplicação pode ser construída utilizando qualquer linguagem, banco de dados, frameworks, libraries e ferramentas de sua preferência (Ex: Node + Express + Mongoose + MongoDB, PHP + Lumen + RedBean + PostgreSQL, etc). Apesar disso, a stack mais comum para squads aqui na BossaBox é **Node.js,** seguida por **PHP. Ruby** é incomum, mas aparece em raros casos.
 
-##O que será avaliado:
+## O que será avaliado:
 
 Queremos avaliar sua capacidade de desenvolver e documentar um back-end para uma aplicação. Serão avaliados:
 
@@ -76,7 +76,7 @@ O ambiente pode ser acessado no http://localhost
 
 ### Material complementar
 
-A documentação dos endpoints pode ser utilizada via Postman com o arquivo `send4.postman_collection.json` ou acesse para ter a base dos endpoint em https://app.swaggerhub.com/apis/henriqueweiand/test-bossabox-backend-php-vuttr/1.0.0
+A documentação dos endpoints pode ser acessada em https://app.swaggerhub.com/apis/henriqueweiand/test-bossabox-backend-php-vuttr/1.0.0
 
 ### Importante
 

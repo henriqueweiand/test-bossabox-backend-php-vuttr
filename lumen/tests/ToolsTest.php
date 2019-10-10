@@ -17,7 +17,7 @@ class ToolsTest extends TestCase
             ->assertResponseStatus(201);
     }
 
-    public function testList() {
+    public function testList() { 
         $this->disableExceptionHandling();
         $tool = factory('App\Tools', 3) -> create();
 

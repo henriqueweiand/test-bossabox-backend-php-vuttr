@@ -40,6 +40,10 @@ Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalh
 - **Deploy em ambientes reais, utilizando serviços de cloud externos (AWS, Heroku, GCP, etc);**
 - Sugestões sobre o challenge embasadas em alguma argumentação.
 
+### Explicacao projeto
+
+https://youtu.be/lbtm9AJ0u7A
+
 ## Requisitos
 
 Visite: https://www.notion.so/Dev-Back-End-04cfd92927a045f6914ab1e2c9002c02

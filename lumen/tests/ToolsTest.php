@@ -11,6 +11,7 @@ class ToolsTest extends TestCase
         $this->disableExceptionHandling();
 
         $tool = factory('App\Tools') -> raw();
+        
         $response = $this->json('POST', '/tools', $tool)
             ->seeJson($tool)
             ->assertResponseStatus(201);
@@ -22,13 +23,6 @@ class ToolsTest extends TestCase
 
         $this->get('/tools', []);
         $this->seeStatusCode(200);
-        $this->seeJsonStructure([
-            [
-                'title',
-                'link',
-                'description',
-            ]
-        ]);
     }
 
     public function testDelete() {

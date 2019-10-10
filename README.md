@@ -62,7 +62,7 @@ Este comando ira executar uma série de passos que você poderá acompanhar via 
 1) Build
 2) Install das dependências do framework lumen
 3) Run migrations para a criação das tabelas
-4) O ambiente pode ser acessado no http://localhost
+4) O ambiente pode ser acessado no http://localhost:3000
 
 ### 2) Execute os seguintes passos separadamente no seu terminal dentro da pasta do projeto:
 

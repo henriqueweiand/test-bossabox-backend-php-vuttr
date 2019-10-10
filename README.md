@@ -72,7 +72,7 @@ Este comando ira executar uma série de passos que você poderá acompanhar via 
 
 `docker exec -it php php /var/www/html/artisan migrate`
 
-O ambiente pode ser acessado no http://localhost
+O ambiente pode ser acessado no http://localhost:3000
 
 ### Material complementar
 
